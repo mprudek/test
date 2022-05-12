@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "xpackage"
-version = "0.1.7"
+version = "0.1.8"
 description = "A dummy X package"
 authors = ["Martin Prudek <martin@prudek.eu>"]
 license = "GPL v2"
